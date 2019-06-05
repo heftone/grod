@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grod/static/css/main.34de6062.chunk.css",
+    "main.js": "/grod/static/js/main.b95e5884.chunk.js",
+    "main.js.map": "/grod/static/js/main.b95e5884.chunk.js.map",
+    "runtime~main.js": "/grod/static/js/runtime~main.7793b41c.js",
+    "runtime~main.js.map": "/grod/static/js/runtime~main.7793b41c.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/grod/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/grod/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/grod/index.html",
+    "precache-manifest.a7d67117c68cffd7fa1ab6aac6cf48bf.js": "/grod/precache-manifest.a7d67117c68cffd7fa1ab6aac6cf48bf.js",
+    "service-worker.js": "/grod/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/grod/static/css/main.34de6062.chunk.css.map"
+  }
+}
